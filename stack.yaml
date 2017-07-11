@@ -4,6 +4,7 @@ packages:
 - 'discord-types'
 - 'discord-rest'
 - 'discord-gateway'
+- 'req'
 resolver: lts-8.5
 nix:
   packages: [ zlib, gmp ]

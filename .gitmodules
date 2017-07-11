@@ -1,0 +1,3 @@
+[submodule "req"]
+	path = req
+	url = https://github.com/mrkkrp/req.git
